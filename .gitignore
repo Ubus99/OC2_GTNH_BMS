@@ -39,6 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
-*/bin/*.lua
-*/boot/*.lua
-*/lib/*.lua
+*/bin/*
+*/boot/*
+*/lib/*
+state/*
