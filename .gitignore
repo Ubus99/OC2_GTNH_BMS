@@ -39,7 +39,12 @@ luac.out
 *.x86_64
 *.hex
 
+# Custom
 */bin/*
 */boot/*
 */lib/*
 state/*
+**/logs/
+*/usr/man/*
+*/usr/misc/*
+*/usr/bin/*
